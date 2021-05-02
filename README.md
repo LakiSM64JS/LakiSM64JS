@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello my name's Laki, i'm working on a website with help of my friend Agent X, the website is gonna be about my youtube channel, Laki222.
 
 <!--
 **LakiSM64JS/LakiSM64JS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
